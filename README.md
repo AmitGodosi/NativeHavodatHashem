@@ -1,5 +1,5 @@
-# NativeHavodatHashem
-**React Native**, Firebase, Flow Manager, State Management, Navigation, Error Handling and more, in process...
+Application Code is Private for now
+
 ![login](https://github.com/AmitGodosi/HavodatHashem/assets/94754700/f4cd5fba-fc1b-4df5-ae43-fe8103fdaae7)
 
 ![profile](https://github.com/AmitGodosi/HavodatHashem/assets/94754700/8c48e98a-415e-465a-917c-9f8d62dd7790)
