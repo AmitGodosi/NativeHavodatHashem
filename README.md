@@ -1,10 +1,17 @@
 Application Code is Private for now
 
-![התחברות](https://github.com/AmitGodosi/HavodatHashem/assets/94754700/70c7ca3d-862b-4746-b29c-51470c3e1443)
-![הרשמה](https://github.com/AmitGodosi/HavodatHashem/assets/94754700/273f14bb-eb60-4a5b-8cc9-42d225e99cd5)
-![פרופיל](https://github.com/AmitGodosi/HavodatHashem/assets/94754700/5c032d7b-a851-4872-9628-8d3d6f6e23d3)
-![בחירת ספר](https://github.com/AmitGodosi/HavodatHashem/assets/94754700/321fc17b-5fac-4a41-9cc3-1ab02d18a9d4)
-![בחירת ימים](https://github.com/AmitGodosi/HavodatHashem/assets/94754700/a2cc93da-39d4-4f7d-83ae-6d3e20843ef2)
-![ברכות](https://github.com/AmitGodosi/HavodatHashem/assets/94754700/30492cdc-3484-4bb6-92b9-c5f86eb255db)
-![לימוד יומי](https://github.com/AmitGodosi/HavodatHashem/assets/94754700/22f64264-cd88-4965-909d-611f13a8ab5d)
-![זמני היום](https://github.com/AmitGodosi/HavodatHashem/assets/94754700/27109d7f-cf7b-4352-9170-4380bd716f26)
+![התחברות](https://github.com/AmitGodosi/HavodatHashem/assets/94754700/59f92572-d5af-4f5d-9d6f-07f71a422f86)
+
+![הרשמה](https://github.com/AmitGodosi/HavodatHashem/assets/94754700/f7bf39de-f39d-4ef5-8dee-062c8b69a7be)
+
+![פרופיל](https://github.com/AmitGodosi/HavodatHashem/assets/94754700/6f2fa52d-33af-4840-99a4-1c14a497ea80)
+
+![בחירת ספר](https://github.com/AmitGodosi/HavodatHashem/assets/94754700/b56a856e-6e86-404c-9289-8fe80e38c23e)
+
+![בחירת ימים](https://github.com/AmitGodosi/HavodatHashem/assets/94754700/7206eb80-08cc-4234-bd45-c3db255543d5)
+
+![לימוד יומי](https://github.com/AmitGodosi/HavodatHashem/assets/94754700/db08889d-7f14-4fc3-bcdd-1fbae45e4883)
+
+![ברכות](https://github.com/AmitGodosi/HavodatHashem/assets/94754700/ebabf0de-11cc-4d5b-992d-1d41e2507d18)
+
+![זמני היום](https://github.com/AmitGodosi/HavodatHashem/assets/94754700/e33f5a35-dea1-4307-b9f0-75ccccd2ccd6)
