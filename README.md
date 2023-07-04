@@ -1,4 +1,5 @@
 Application Code is Private for now
+**React Native**, Firebase, Flow Manager, State Management, Navigation, Error Handling and more, in process...
 
 ![התחברות](https://github.com/AmitGodosi/HavodatHashem/assets/94754700/59f92572-d5af-4f5d-9d6f-07f71a422f86)
 
